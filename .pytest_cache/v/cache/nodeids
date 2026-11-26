@@ -1,0 +1,18 @@
+[
+  "tests/test_links.py::test_categories_are_known",
+  "tests/test_links.py::test_checker_loads_links_file",
+  "tests/test_links.py::test_checker_marks_200_ok",
+  "tests/test_links.py::test_checker_marks_403_guarded_not_dead",
+  "tests/test_links.py::test_checker_marks_404_dead",
+  "tests/test_links.py::test_checker_marks_dns_failure_dead",
+  "tests/test_links.py::test_cost_labels_are_known",
+  "tests/test_links.py::test_every_category_has_entries",
+  "tests/test_links.py::test_every_entry_has_required_fields",
+  "tests/test_links.py::test_links_file_has_entries",
+  "tests/test_links.py::test_names_are_unique",
+  "tests/test_links.py::test_no_banned_words",
+  "tests/test_links.py::test_notes_are_real_sentences",
+  "tests/test_links.py::test_readme_lists_every_link",
+  "tests/test_links.py::test_readme_mentions_the_rules",
+  "tests/test_links.py::test_urls_are_valid_and_unique"
+]
